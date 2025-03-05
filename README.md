@@ -1,35 +1,24 @@
+## Instalación
 
+pfSense es un software de codigo abierto utilizado para gestionar y proteger redes. Funciona como un firewall  y router, permitiendo controlar el trafico de internet,proteger la red de ataques y intrusos,y crear VPN 
 
-## Instalar firewall y configurar pfSense.  
+pf Sense Se basa en el sistema operatibo  FreeBSD, conocido por su seguridad y estabilidad.
 
+#### Entre sus principales características están:
 
+>Código abierto, lo que permite personalización.
+>
+>Un firewall potente para gestionar el tráfico y las conexiones.
+>
+>
+>La capacidad de crear VPNs para proteger las comunicaciones atraves de internet.
+>
+>
+>Es extensible, permitiendo añadir funcionalidades adicionales mediante plugins.
+>
+>
+#### PfSense es una solucion para proteger y gestionar lasredes, facil de instalar en maquinas virtuales y altamente configurable para adaptarse a distintas necesidades de seguridad y conectividad.
+## 
 
-
-
-
-
-
-
-
-### Qué es pfSense y para qué se utiliza? 
-Es un programa que se instala para proteger la red de intrusos y controlar el trafico de  internet es como un guardia de seguridad que vigila todo lo que entra y sale de la red, sirve para proteger la red de ataques , y crear redes privadaas vituales  
-
-
-### En qué sistema se basa? 
-Pfsense se basa en el sistema operativo freeBSD, uns sistema conocido por su estabilidad y seguridad
-
-
-### Cuáles son las principales características de pfSense? 
-Las principales caracteristicas de pfsense son:
-- Codig abierto
-- firewall potente
-- vpn
-- extensible
-
-### Cómo se instala y configura pfSense? ¿Qué debemos tener en consideración al instalarlo en un entorno virtual? 
-Se abre una maquina virtual, con una iso especial y se instala, luego se configura en la maquina virtual , hay que tener en consideración que el ordenador tenga suficiente memoria y espacio para que funcione bien y no haya problemas , y configurar la red correctamente. 
-
-## Ponemos en practica lo estudiado 
-I
 
 
