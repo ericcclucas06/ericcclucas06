@@ -6,15 +6,20 @@ pf Sense Se basa en el sistema operatibo  FreeBSD, conocido por su seguridad y e
 
 #### Entre sus principales características están:
 
->Código abierto, lo que permite personalización.
 >
->Un firewall potente para gestionar el tráfico y las conexiones.
+>Firewall avanzado: Reglas potentes para filtrar y controlar el tráfico de red.
 >
+>Enrutamiento: Funciones avanzadas para conectar redes.
 >
->La capacidad de crear VPNs para proteger las comunicaciones atraves de internet.
+>VPN: Soporta OpenVPN, IPSec, PPTP, entre otros.
 >
+>Proxy y filtrado web: Control y supervisión de acceso a Internet 
 >
->Es extensible, permitiendo añadir funcionalidades adicionales mediante plugins.
+>Balanceo de carga y redundancia: Distribuye el tráfico y asegura redundancia en conexiones.
+>
+>Seguridad: IPS, filtrado de contenido, protección contra ataques DoS.
+>
+>Interfaz gráfica: Web intuitiva para gestión y configuración.
 >
 >
 #### PfSense es una solucion para proteger y gestionar lasredes, facil de instalar en maquinas virtuales y altamente configurable para adaptarse a distintas necesidades de seguridad y conectividad.
